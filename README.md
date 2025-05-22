@@ -7,12 +7,12 @@
 git clone https://github.com/Mahirweyves/MessengerApp
 
 cd MessengerApp
-```sh
+```
 
 ### 2. **Install Dependencies**
-```sh
+```
 npm install
-```sh
+```
 
 ### 3. **Install Expo CLI (if not installed)**
 ```sh
