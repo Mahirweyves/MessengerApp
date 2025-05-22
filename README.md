@@ -31,12 +31,9 @@ npm start
 ### 5. **Run on Android Emulator**
 - Open Android Studio > Device Manager > Start a virtual device.
 - In the Expo DevTools, click **Run on Android device/emulator**.
+---
 
-### 6. **Run on iOS Simulator (Mac only)**
-- Open Xcode > Open Simulator.
-- In the Expo DevTools, click **Run on iOS simulator**.
-
-### 7. **Run on Physical Device**
+### 6. **Run on Physical Device**
 - Install **Expo Go** from the App Store/Google Play.
 - Scan the QR code from Expo DevTools.
 
