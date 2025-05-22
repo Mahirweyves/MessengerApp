@@ -57,9 +57,6 @@ npm start
 - **ADB Not Recognized**:  
   - Add `platform-tools` to your system PATH or use the full path to `adb.exe`.
 
-- **App Icon**:  
-  - Replace the default icon in `android/app/src/main/res/mipmap-*` and `ios/YourApp/Images.xcassets/AppIcon.appiconset/`.
-
 ---
 
 ## Notes
@@ -67,9 +64,3 @@ npm start
 - The app uses `react-native-vector-icons` for directory icons.
 - All messages are stored locally per directory using AsyncStorage.
 - The project is compatible with Expo and React Native CLI.
-
----
-
-## Contact
-
-For any issues, please open an issue in the repository or contact the maintainer.
