@@ -7,12 +7,12 @@
 git clone https://github.com/Mahirweyves/MessengerApp
 
 cd MessengerApp
-```
+```sh
 
 ### 2. **Install Dependencies**
 ```sh
 npm install
-```
+```sh
 
 ### 3. **Install Expo CLI (if not installed)**
 ```sh
@@ -21,7 +21,7 @@ npm install -g expo-cli
 
 ### 4. **Start Metro Bundler**
 ```sh
-npx expo start
+npx expo start --android
 ```
 or
 ```sh
